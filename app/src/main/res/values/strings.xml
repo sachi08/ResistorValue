@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Resistor Value</string>
+    <string name="fringe_one">Franja 1</string>
+    <string name="fringe_two">Franja 2</string>
+    <string name="fringe_three">Franja 3</string>
+    <string name="tolerance">Tolerancia</string>
+    <string name="calculate_value">Calcular Resistencia</string>
+    <string name="ohm">Resistencia = 0 ohm</string>
+</resources>
